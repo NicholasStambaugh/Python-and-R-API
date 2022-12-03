@@ -1,6 +1,6 @@
 library(bea.R)
 
-Key 	<- '0B83389D-9DD3-49C2-A41D-ACB52A1A44F9'
+Key 	<- 'enter your key'
 
 beaSearch('personal consumption', Key, asHtml = TRUE)
 
