@@ -1,3 +1,3 @@
 # PythonFREDAPI
 
-Introduction to usinging FRED's API
+Introduction to using FRED and BEA API
